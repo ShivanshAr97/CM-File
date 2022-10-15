@@ -1,3 +1,3 @@
 # CM File
 
-This repository contains the codes and important points for OOPS Practical File - 2022
+This repository contains the codes and important points for CM Practical File - 2022
